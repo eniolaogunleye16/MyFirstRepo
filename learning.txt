@@ -1,1 +1,1 @@
-What I have learned So far in this course, I have learned how to use Git and GitHub for version control, understand commit history, and collaborate on projects efficiently.
+What I have learned from this course So far in this course, I have learned how to use Git and GitHub for version control, understand commit history, and collaborate on projects efficiently.
